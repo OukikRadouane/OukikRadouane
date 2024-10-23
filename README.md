@@ -48,3 +48,23 @@
 ###
 
 <br clear="both">
+
+
+
+________________________________________________________________________________________________________________________________________
+
+
+  <p align="center">
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230">
+</p>
+
+<h1>Thank You! 🤵 </h1>
+<br>
+<hr>
+<p>Credit: <a href="https://github.com/OukikRadouane">Oukik</a>
+Last Edited on: 23/10/2024</p> 
+
+
+
+
+
