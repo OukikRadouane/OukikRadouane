@@ -49,7 +49,4 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/OukikRadouane/OukikRadouane/output/snake.svg" alt="Snake animation" />
-
 ###
